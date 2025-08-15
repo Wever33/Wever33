@@ -1,20 +1,21 @@
 # Weverton Santos 
-**Desenvolvedor | Técnico em Informática | Entusiasta de IA**
+**Desenvolvedor | Técnico em Informática |**
 
 ## 👨‍💻 Sobre Mim
 
 - 🎓 Formado em **Técnico em Informática** pelo Instituto Federal de Sergipe
-- 💼 Experiência em desenvolvimento web com **HTML, CSS e MySQL**
 - 🌱 Atualmente me especializando em **Python**
 - 🔭 Interesses: Soluções tecnológicas eficientes e automação
 
 ## 🚀 Habilidades Técnicas
 
 **Linguagens & Tecnologias:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 **Ferramentas:**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
