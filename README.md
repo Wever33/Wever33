@@ -8,19 +8,17 @@
 <p>
   👋 Olá, sou Weverton! Desenvolvedor e Técnico em Informática formado pelo Instituto Federal de Sergipe.
 
-  - 🌱 Atualmente me especializando em Python <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  - 🌱 Atualmente me especializando em Python
 
   - 🔭 Busco oportunidades para implementar soluções tecnológicas eficientes e trabalhar com automação.
 </p>
 
 <!-- Dropdown -->
-<details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Formado em Técnico em Informática com foco em desenvolvimento de soluções tecnológicas. Tenho experiência com Python, Git e outras ferramentas de desenvolvimento.
 
   - ⚡ Meus interesses incluem contribuir para projetos open-source, aprender novas tecnologias e desenvolver soluções escaláveis que resolvam problemas reais de forma elegante.
-</details>
 
 <!-- Links -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ws70779@gmail.com)
@@ -28,7 +26,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Wever/)
 
 <!-- GithubStats -->
-![Weverton GitHub stats](https://github-readme-stats.vercel.app/api?username=Wever33&show_icons=true&theme=dark)
+![Weverton GitHub stats](https://github-readme-stats.vercel.app/api?username=Wever33&show_icons=true&theme=github_dark)
 
 ## 🔥 Habilidades
 <!-- Skills: Programming Languages -->
