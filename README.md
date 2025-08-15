@@ -21,7 +21,7 @@
   - ⚡ Meus interesses incluem contribuir para projetos open-source, aprender novas tecnologias e desenvolver soluções escaláveis que resolvam problemas reais de forma elegante.
 
 <!-- Links -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ws70779@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wevertonnsantos/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wever33)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Wever/)
 
